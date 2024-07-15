@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  width: 100%;
+  padding: 20px;
+  background-color: aqua;
+  display: flex;
+  justify-content: space-between;
+}
+header ul {
+  display: flex;
+}
+header ul li {
+  list-style: none;
+  font-size: 24px;
+  color: #000;
+  margin-left: 40px;
+}
+
+/*# sourceMappingURL=style.css.map */
